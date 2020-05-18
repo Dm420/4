@@ -1,0 +1,9 @@
+C:\Users\hp\RiderProjects\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\hp\RiderProjects\Prueba\bin\Debug\Prueba.exe
+C:\Users\hp\RiderProjects\Prueba\bin\Debug\Prueba.pdb
+C:\Users\hp\RiderProjects\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\hp\RiderProjects\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\hp\RiderProjects\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\hp\RiderProjects\Prueba\obj\Debug\Prueba.exe
+C:\Users\hp\RiderProjects\Prueba\obj\Debug\Prueba.pdb
+C:\Users\hp\RiderProjects\Prueba\obj\Debug\Prueba.Form1.resources
